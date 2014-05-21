@@ -1,0 +1,10 @@
+c:\users\ibm_admin\documents\visual studio 2012\Projects\ice-lab-cs\ice-lab-cs\bin\Debug\ice-lab-cs.exe.config
+c:\users\ibm_admin\documents\visual studio 2012\Projects\ice-lab-cs\ice-lab-cs\bin\Debug\ice-lab-cs.exe
+c:\users\ibm_admin\documents\visual studio 2012\Projects\ice-lab-cs\ice-lab-cs\bin\Debug\ice-lab-cs.pdb
+c:\users\ibm_admin\documents\visual studio 2012\Projects\ice-lab-cs\ice-lab-cs\bin\Debug\Ice.dll
+c:\users\ibm_admin\documents\visual studio 2012\Projects\ice-lab-cs\ice-lab-cs\bin\Debug\Ice.xml
+c:\users\ibm_admin\documents\visual studio 2012\Projects\ice-lab-cs\ice-lab-cs\obj\Debug\ice-lab-cs.exe
+c:\users\ibm_admin\documents\visual studio 2012\Projects\ice-lab-cs\ice-lab-cs\obj\Debug\ice-lab-cs.pdb
+c:\users\ibm_admin\documents\visual studio 2012\Projects\ice-lab-cs\ice-lab-cs\obj\Debug\ice-lab-cs.csprojResolveAssemblyReference.cache
+c:\users\ibm_admin\documents\visual studio 2012\Projects\ice-lab-cs\ice-lab-cs\bin\Debug\IceSSL.dll
+c:\users\ibm_admin\documents\visual studio 2012\Projects\ice-lab-cs\ice-lab-cs\bin\Debug\IceSSL.xml

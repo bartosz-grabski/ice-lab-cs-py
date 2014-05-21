@@ -1,0 +1,5 @@
+Ice.Plugin.IceSSL=IceSSL:IceSSL.PluginFactory
+IceSSL.DefaultDir=.
+IceSSL.ImportCert.CurrentUser.Root=cs.crt
+IceSSL.CertFile=c.p12
+IceSSL.Password=passwd
